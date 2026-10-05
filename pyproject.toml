@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eed-compliance-engine"
+version = "0.1.0"
+description = "Deterministic EED Article 26 compliance calculator for data-center sustainability metrics"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0",
+    "pytest>=7.0",
+    "streamlit>=1.28",
+    "jinja2>=3.1",
+]
+
+[project.urls]
+Homepage = "https://github.com/KumailQazi/eed-compliance-engine"
+Issues = "https://github.com/KumailQazi/eed-compliance-engine/issues"

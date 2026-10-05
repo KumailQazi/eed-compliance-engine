@@ -1,0 +1,4 @@
+period_start,period_end,reporting_entity,facility_id,it_energy_kwh,total_energy_kwh,reused_energy_kwh,cooling_inlet_c,cooling_outlet_c,flow_rate_lph,annual_water_litres,grid_ci_g_co2_kwh,renewable_fraction
+2026-01-01,2026-12-31,d.i.t. B.V.,AMS-HVN-01,10000000.0,11000000.0,1500000.0,45.0,60.0,50000.0,20000000.0,236.0,0.40
+2026-01-01,2026-12-31,d.i.t. B.V.,AMS-HVN-02,5000000.0,6000000.0,800000.0,40.0,55.0,30000.0,10000000.0,180.0,0.60
+2026-01-01,2026-06-30,d.i.t. B.V.,AMS-HVN-01,4500000.0,5000000.0,500000.0,42.0,58.0,45000.0,8000000.0,250.0,0.30
